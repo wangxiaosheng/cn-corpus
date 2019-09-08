@@ -16,4 +16,4 @@
 * 通用规范汉字表：通用规范汉字表收字8105个，其中一级字3500个，二级字3000个，三级字1605个。
 
 
-[1]: http://www.aihanyu.org/cncorpus/Resources.aspx
+[1]: http://corpus.zhonghuayuwen.org/Resources.aspx
